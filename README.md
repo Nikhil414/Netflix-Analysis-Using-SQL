@@ -1,6 +1,9 @@
 # Netflix-Analysis-Using-SQL
 SQL Project
 
+![Image alt](https://github.com/Nikhil414/Netflix-Analysis-Using-SQL/blob/b85cb3dd7bbef6378c081c8ba6a77129e80c0010/1623368291479.png)
+
+
 # Netflix Movies & TV Shows Analysis (SQL Project)
 
 ## Project Objective
